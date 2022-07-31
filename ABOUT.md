@@ -2,7 +2,7 @@
 ## Amazon Shopping Website with User Authentication and Payment functionality.
 
 This is a Full-Stack Web Application clone of the original Amazon shopping website built using React.js and Firebase.
-**Link :- ** https://clone-e755c.web.app/
+**Link :-** https://clone-e755c.web.app/
 
 ### How the app works :-
 * 👉 The basic skeleton lies on the "React.js" framework and component handling & information flow is handled using "React Context API".
